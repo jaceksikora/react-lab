@@ -1,7 +1,7 @@
 import './App.css';
 
 function App() {
-    let title = '1670';
+    let title = 'Wall-E';
 
     function handleChange(event) {
         console.log(event.target.value);
